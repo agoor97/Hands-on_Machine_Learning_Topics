@@ -1,4 +1,4 @@
-# Machine-Learning-Subjects
+# Machine-Learning-Subjects_Part_1
 
 ## My illustrative Notebooks for ML topics (supervised and unsupervised)  :ok_hand: :ok_hand: 
 :fire: :fire: :fire:
