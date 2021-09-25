@@ -1,11 +1,10 @@
-# Machine-Learning-Subjects_Part_1  <br /> <table align="left">
+# Machine-Learning-Subjects_Part_1  <br /> 
+
+<table align="left">
   <td>
     <a href="https://drive.google.com/drive/folders/1-G_AQLWK-_XV3Luoo_UJ0sQFgB_ljydX?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
-</table>
-
-
-
+</table> <br />
 ## My illustrative Notebooks for ML topics (supervised and unsupervised)  :ok_hand: :ok_hand: 
 :fire: :fire: :fire:
 1. introduction to ML  :heavy_check_mark:
