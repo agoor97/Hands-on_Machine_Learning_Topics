@@ -6,8 +6,6 @@
   </td>
 </table> <br />
 
-<br />
-<br />
 
 ## My illustrative Notebooks for ML topics (supervised and unsupervised)  :ok_hand: :ok_hand: 
 :fire: :fire: :fire:
