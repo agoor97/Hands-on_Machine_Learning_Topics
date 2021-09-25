@@ -1,6 +1,6 @@
 # Machine-Learning-Subjects_Part_1  <br /> 
 
-<table>
+<table align='center'>
   <td>
     <a href="https://drive.google.com/drive/folders/1-G_AQLWK-_XV3Luoo_UJ0sQFgB_ljydX?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
