@@ -1,6 +1,7 @@
 # Machine-Learning-Subjects
 
-## My illustrative Notebooks for ML topics (supervised and unsupervised)  :fire: :ok_hand: 
+## My illustrative Notebooks for ML topics (supervised and unsupervised)  :ok_hand: :ok_hand: 
+:fire: :fire: :fire:
 1. introduction to ML  :heavy_check_mark:
 2. END-TO-END-ML-PROJECT :heavy_check_mark:
 3. CLASSIFICATION  :heavy_check_mark:
