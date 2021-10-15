@@ -7,7 +7,7 @@
 </table> <br />
 
 
-## My illustrative Notebooks for ML topics (supervised and unsupervised)  :ok_hand: :ok_hand: 
+## My illustrative Notebooks for Machine Learning topics Using scikit-learn, Keras & Tensorflow  :ok_hand: :ok_hand: 
 :fire: :fire: :fire:
 1. introduction to ML  :heavy_check_mark:
 2. END-TO-END-ML-PROJECT :heavy_check_mark:
