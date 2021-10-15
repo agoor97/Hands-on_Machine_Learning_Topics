@@ -18,3 +18,8 @@
 7. Ensemble-Learning  :heavy_check_mark:
 8. Diminsionality_Reduction  :heavy_check_mark:
 9. UnSuperVised_Learning  :heavy_check_mark:
+10. Introduction_to_ANN :heavy_check_mark:
+11. Training_Deep_Neural_Networks :heavy_check_mark:
+12. Custom_Models&Training_TensorFlow :heavy_check_mark:
+13. Loading&Preprocessing_with_TensorFlow :heavy_check_mark:
+14. Deep_Computer_Vision_using_CNN :heavy_check_mark:
