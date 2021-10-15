@@ -1,4 +1,4 @@
-# Machine-Learning-Subjects_Part_1  <br /> 
+# Machine-Learning-Topics  <br /> 
 
 <table align='center'>
   <td>
